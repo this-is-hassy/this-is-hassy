@@ -32,5 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=this-is-hassy&show_icons=true&locale=en" alt="this-is-hassy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=this-is-hassy&" alt="this-is-hassy" /></p>
-">
 
