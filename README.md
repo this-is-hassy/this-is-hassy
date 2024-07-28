@@ -6,7 +6,7 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 
 <div align="center">
   <a href="https://ipdc-finance-banking-ui-landing-page.vercel.app/">
-    <img src="https://github.com/your-username/your-repository-name/blob/main/wallpaper.png" alt="Project Image">
+    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/wallpaper.png" alt="Project Image">
   </a>
 </div>
 
