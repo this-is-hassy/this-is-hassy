@@ -30,7 +30,5 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 
 ### Stats
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=this-is-hassy&show_icons=true&theme=holi)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-hassy&layout=compact)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=this-is-hassy&show_icons=true&theme=holi)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-hassy&layout=compact)
 #
