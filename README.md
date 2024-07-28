@@ -1,4 +1,3 @@
-<h2 align="left">👨‍💻 Hey, I'm <span style="color: blue;">Hassan Hameed</span></h2>
 <h2 align="left">👨‍💻 Hey, I'm <a href="#" style="color: blue; text-decoration: none;">Hassan Hameed</a></h2>
 
 
