@@ -51,19 +51,7 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
   </tr>
 </table>
 
-
-
-
-
-- 🌱 I’m currently learning **Next.Js, CMS, MySQL**
-
-- 👨‍💻 All of my projects are available at [https://moderndevelopers.vercel.app/](https://moderndevelopers.vercel.app/)
-
-- 💬 Ask me about **react, next**
-
-- 📫 How to reach me **https://www.instagram.com/hassan_hassy0/**
-
-- ⚡ Fun fact **I'm mad for football**
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
