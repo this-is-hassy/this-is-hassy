@@ -36,6 +36,34 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 </div>
 
 
+# 🛠️ Latest Projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://blogify-blogging-website.vercel.app/">
+        <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/blogify.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
+      </a>
+      <div>akfdk</div>
+    </td>
+    <td align="center">
+      <a href="https://nextflix-movie-website.vercel.app/">
+        <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/nextflix.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
+      </a>
+      <div>akfdk</div>
+    </td>
+    <td align="center">
+      <a href="https://todo-list-five-alpha-84.vercel.app/">
+        <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/todolist.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
+      </a>
+      <div>akfdk</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://ipdc-finance-banking-ui-landing
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hassy&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hassy" /> </p>
 
