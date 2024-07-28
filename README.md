@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hassan Hameed</h1>
+<h1 align="center">👨‍💻 Hey, I'm Hassan Hameed</h1>
+
+**`Frontend Developer (Web/UI)`**
+
 <h3 align="left">I'm an excited technology lover, passionate about web 3.0, and entirely self-taught. My expertise centers around JavaScript and TypeScript, and I excel in crafting exceptional user interfaces using React. <h3/> 
   <h3 align='left'> Additionally, I have hands-on experience with widely-used libraries like Material UI and Chakra UI, enabling me to create stunning and functional web applications. I'm always eager to explore new possibilities and embrace cutting-edge technologies to build the web of tomorrow! </h3>
 
