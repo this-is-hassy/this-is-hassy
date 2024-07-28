@@ -2,8 +2,11 @@
 
 **`Frontend Developer (Web/UI)`**
 
-<h4 align="left">*I started with a strong foundation in HTML, CSS, and JavaScript, then advanced with React JS. React, a popular and well-built library, enabled me to create more than 10 impressive websites. This opened up opportunities to learn advanced frameworks and techniques, enhancing each project significantly.* <h4/> 
-  <h5 align='left'> I leveled up my skills with NEXT JS for its seamless integration and unmatched capabilities. By mastering TypeScript and exploring cutting-edge technologies like JAMStack, I ensure my projects align with industry best practices and the latest trends. </h5>
+I started with a strong foundation in HTML, CSS, and JavaScript, then advanced with React JS. React, a popular and well-built library, enabled me to create more than 10 impressive websites. This opened up opportunities to learn advanced frameworks and techniques, enhancing each project significantly.
+
+I leveled up my skills with NEXT JS for its seamless integration and unmatched capabilities. By mastering TypeScript and exploring cutting-edge technologies like JAMStack, I ensure my projects align with industry best practices and the latest trends.
+<h4 align="left"> <h4/> 
+  <h5 align='left'>  </h5>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
