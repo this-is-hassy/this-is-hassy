@@ -1,12 +1,9 @@
-<h1 align="center">👨‍💻 Hey, I'm Hassan Hameed</h1>
+<h1 align="left">👨‍💻 Hey, I'm Hassan Hameed</h1>
 
 **`Frontend Developer (Web/UI)`**
 
-<h3 align="left">I'm an excited technology lover, passionate about web 3.0, and entirely self-taught. My expertise centers around JavaScript and TypeScript, and I excel in crafting exceptional user interfaces using React. <h3/> 
-  <h3 align='left'> Additionally, I have hands-on experience with widely-used libraries like Material UI and Chakra UI, enabling me to create stunning and functional web applications. I'm always eager to explore new possibilities and embrace cutting-edge technologies to build the web of tomorrow! </h3>
-
-<h3 align="left">I love learning and growing, always on the lookout for ways to improve my skills. Right now, I'm diving into Next.js to boost my development abilities. Thanks to my experience with the MERN stack, I've got a solid foundation in both front-end and back-end development. <h3/>
-   <h3 align='left'> As a developer and lifelong learner, I bring together technical know-how and a passion for creating impactful solutions. Whether it's internal projects or consulting for clients, I'm dedicated to delivering high-quality, practical results that cater to the user's needs.</h3>
+<h2 align="left">I started with a strong foundation in HTML, CSS, and JavaScript, then advanced with React JS. React, a popular and well-built library, enabled me to create more than 10 impressive websites. This opened up opportunities to learn advanced frameworks and techniques, enhancing each project significantly. <h2/> 
+  <h2 align='left'> I leveled up my skills with NEXT JS for its seamless integration and unmatched capabilities. By mastering TypeScript and exploring cutting-edge technologies like JAMStack, I ensure my projects align with industry best practices and the latest trends. </h2>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
