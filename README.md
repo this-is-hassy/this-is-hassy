@@ -4,9 +4,10 @@
 **`Frontend Developer (Web/UI)`**
 
 I started with a strong foundation in HTML, CSS, and JavaScript, then advanced with React JS. React, a popular and well-built library, enabled me to create more than 10 impressive websites. This opened up opportunities to learn advanced frameworks and techniques, enhancing each project significantly. I leveled up my skills with NEXT JS for its seamless integration and unmatched capabilities. By mastering TypeScript and exploring cutting-edge technologies like JAMStack, I ensure my projects align with industry best practices and the latest trends.
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassan-hameed-webdeveloper/)
-  [![Whatsapp](https://custom-icon-badges.demolab.com/badge/-92 330 2910097-green?style=for-the-badge&logo=phone&logoColor=white)
-
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassan-hameed-webdeveloper/)  [![WhatsApp](https://custom-icon-badges.demolab.com/badge/WhatsApp-92%20330%202910097-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923302910097)
+</div>
+  
 ---
 
 ### 🛠️ Latest Projects
