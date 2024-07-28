@@ -14,19 +14,19 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
       <a href="https://blogify-blogging-website.vercel.app/">
         <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/blogify.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
       </a>
-      <div>akfdk</div>
+      <div>Blogify (fully functional)</div>
     </td>
     <td align="center">
       <a href="https://nextflix-movie-website.vercel.app/">
         <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/nextflix.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
       </a>
-      <div>akfdk</div>
+      <div>nextFlix (Next.js + API handling)</div>
     </td>
     <td align="center">
       <a href="https://todo-list-five-alpha-84.vercel.app/">
         <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/todolist.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
       </a>
-      <div>akfdk</div>
+      <div>Todolist (Redux)</div>
     </td>
   </tr>
   <tr>
@@ -34,19 +34,19 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
       <a href="https://ipdc-finance-banking-ui-landing-page.vercel.app/">
         <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/IPDC.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
       </a>
-      <div>akfdk</div>
+      <div>IPDC (UI "tailwind css, AOS")</div>
     </td>
     <td align="center">
       <a href="https://content-universe-ui-template.vercel.app/">
         <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/brands.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
       </a>
-      <div>akfdk</div>
+      <div>Animated Template</div>
     </td>
     <td align="center">
       <a href="https://dashboard-lac-beta.vercel.app/">
         <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/dashboard.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
       </a>
-      <div>akfdk</div>
+      <div>Dashboard (ShadCN)</div>
     </td>
   </tr>
 </table>
