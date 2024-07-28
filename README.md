@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hassy&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hassy" /> </p>
 <h1 align="left">👨‍💻 Hey, I'm Hassan Hameed</h1>
 
 **`Frontend Developer (Web/UI)`**
@@ -53,7 +54,7 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hassy&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hassy" /> </p>
+
 
 - 🌱 I’m currently learning **Next.Js, CMS, MySQL**
 
