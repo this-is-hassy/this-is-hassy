@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=this-is-hassy&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hassy" /> </p>
 <h2 align="left">👨‍💻 Hey, I'm Hassan Hameed</h1>
 
 **`Frontend Developer (Web/UI)`**
