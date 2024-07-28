@@ -10,6 +10,7 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 <div align="center">
   <a href="https://blogify-blogging-website.vercel.app/">
     <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/blogify.png" alt="Project Image" style="width: 300px; height: 200px;">
+     <div>akfdk</div>
   </a>
   <a href="https://nextflix-movie-website.vercel.app/">
     <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/nextflix.png" alt="Project Image" style="width: 300px; height: 200px;">
@@ -29,35 +30,6 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
   </a>
 </div>
 
-# 🛠️ Latest Projects
-
-<div align="center">
-  <a href="https://blogify-blogging-website.vercel.app/" style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/blogify.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
-    <div>akfdk</div>
-  </a>
-  <a href="https://nextflix-movie-website.vercel.app/" style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/nextflix.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
-    <div>akfdk</div>
-  </a>
-  <a href="https://todo-list-five-alpha-84.vercel.app/" style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/todolist.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
-    <div>akfdk</div>
-  </a>
-  <br>
-  <a href="https://ipdc-finance-banking-ui-landing-page.vercel.app/" style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/IPDC.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
-    <div>akfdk</div>
-  </a>
-  <a href="https://content-universe-ui-template.vercel.app/" style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/brands.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
-    <div>akfdk</div>
-  </a>
-  <a href="https://dashboard-lac-beta.vercel.app/" style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/dashboard.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
-    <div>akfdk</div>
-  </a>
-</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hassy&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hassy" /> </p>
