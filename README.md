@@ -4,6 +4,8 @@
 **`Frontend Developer (Web/UI)`**
 
 I started with a strong foundation in HTML, CSS, and JavaScript, then advanced with React JS. React, a popular and well-built library, enabled me to create more than 10 impressive websites. This opened up opportunities to learn advanced frameworks and techniques, enhancing each project significantly. I leveled up my skills with NEXT JS for its seamless integration and unmatched capabilities. By mastering TypeScript and exploring cutting-edge technologies like JAMStack, I ensure my projects align with industry best practices and the latest trends.
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/your-username)
+
 
 ---
 
