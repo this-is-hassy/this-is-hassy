@@ -30,7 +30,6 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 
 ### Stats
 
-<p align="center" src="https://github-readme-stats.vercel.app/api?username=this-is-hassy&show_icons=true&theme=holi">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 #
