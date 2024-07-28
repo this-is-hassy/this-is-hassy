@@ -61,7 +61,25 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
   </tr>
   <tr>
     <td align="center">
-      <a href="https://ipdc-finance-banking-ui-landing
+      <a href="https://ipdc-finance-banking-ui-landing-page.vercel.app/">
+        <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/IPDC.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
+      </a>
+      <div>akfdk</div>
+    </td>
+    <td align="center">
+      <a href="https://content-universe-ui-template.vercel.app/">
+        <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/brands.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
+      </a>
+      <div>akfdk</div>
+    </td>
+    <td align="center">
+      <a href="https://dashboard-lac-beta.vercel.app/">
+        <img src="https://raw.githubusercontent.com/this-is-hassy/this-is-hassy/main/dashboard.png" alt="Project Image" style="width: 300px; height: 200px; border-radius: 15px;">
+      </a>
+      <div>akfdk</div>
+    </td>
+  </tr>
+</table>
 
 
 
