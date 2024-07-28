@@ -67,6 +67,8 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 <img align="left" alt="j" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="j" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
+#
+
 ### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=this-is-hassy&show_icons=true&theme=transparent" alt="Hassan's GitHub stats">
