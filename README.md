@@ -6,6 +6,7 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 
 #
 
+# 🛠️ Latest Projects
 <div align="center">
   <a href="https://ipdc-finance-banking-ui-landing-page.vercel.app/">
     <img src="https://github.com/your-username/your-repository-name/blob/main/project-image.png" alt="Project Image" style="width: 300px; height: 200px;">
