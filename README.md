@@ -8,7 +8,6 @@ I started with a strong foundation in HTML, CSS, and JavaScript, then advanced w
 #
 
 # 🛠️ Latest Projects
-
 <table align="center">
   <tr>
     <td align="center">
