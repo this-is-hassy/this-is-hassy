@@ -1,4 +1,5 @@
-<h2 align="left">👨‍💻 Hey, I'm Hassan Hameed</h1>
+<h2 align="left">👨‍💻 Hey, I'm <span style="color: blue;">Hassan Hameed</span></h2>
+
 
 **`Frontend Developer (Web/UI)`**
 
